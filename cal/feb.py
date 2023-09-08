@@ -14,5 +14,9 @@ febSatDate = [saSt]
 for x in range(saRe-1):
     febSatDate.append(febSatDate[x]+7)
 
+free_feb = febSatDate + febSunDate
+free_feb.sort()
+#print(free_feb)
+
 # print(satDate)
 # print(sunDate)

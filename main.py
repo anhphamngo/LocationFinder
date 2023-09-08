@@ -1,10 +1,5 @@
-from cal.jan import *
-from cal.feb import *
+from service.dateService import *
+import calendar
 
-print("Jan")
-print("janSat: ", janSatDate)
-print("janSun: ", janSunDate)
+print(free_jan)
 print()
-print("Feb")
-print("febSat: ", febSatDate)
-print("febSun: ", febSunDate)
