@@ -1,5 +1,8 @@
 from service.dateService import *
-import calendar
+from service.locationService import *
 
-print(free_jan)
-print()
+print(vietnam.hanoi.locDesc())
+print(vietnam.halong.locDesc())
+print(vietnam.sapa.locDesc())
+# print(free_jan)
+# print()
