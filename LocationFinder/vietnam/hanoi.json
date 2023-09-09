@@ -1,0 +1,7 @@
+{
+"bestHotel":[
+    {"name" : "VNAHOMES APARTHOTEL", "price" : "582000", "location" : "30 P. Võng Thị, Bưởi, Tây Hồ, Hà Nội", "number" : "+84 1900 9202"},
+    {"name" : "JW Marriott Hotel Hanoi", "price" : "7063878", "location" : "8 P. Đỗ Đức Dục, Mễ Trì, Từ Liêm, Hà Nội", "number" : "+84 02438335588"},
+    {"name" : "Intercontinental Hanoi Landmark Hotel", "price" : "4404411", "location" : "Urban Area, Keangnam Hanoi Landmark Tower, Mễ Trì, Cầu Giấy, Hà Nội, Việt Nam", "number" : "+84 02436988888"}
+]
+}
